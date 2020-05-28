@@ -1,0 +1,9 @@
+{
+  "name": "gtip",
+  "version": "1.0.0",
+  "bin": "bin/gtip.js",
+  "main": "bin/gtip.js",
+  "repository": "git@github.com:gaoletian/gtip.git",
+  "author": "gaoletian <67890211@qq.com>",
+  "license": "MIT"
+}
